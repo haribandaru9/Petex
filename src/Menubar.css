@@ -1,0 +1,28 @@
+.comlogo{
+    height: 50px;
+    width: 50px;
+}
+.navcontainer{
+    height: 50px;
+    background-color: rgb(253, 252, 248);
+}
+.profilelogo{
+    height: 50px;
+    width: 50px;
+    padding-top: 10px;
+}
+.coursesbutton{
+    background-color: blue;
+    border-radius: 35px;
+}
+.menubar{
+    padding: 10px;
+}
+b{
+    padding-left: 10px;
+    text-decoration: none;
+    color: rgb(4, 8, 12);
+}
+.nav-item:hover{
+    border-bottom: 2px solid rgb(146, 97, 193);
+}

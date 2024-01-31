@@ -1,0 +1,66 @@
+/* FeedbackForm.css */
+
+.feedback-form-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ca0909;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(226, 21, 21, 0.1);
+    background-image: url('https://images.pexels.com/photos/1458916/pexels-photo-1458916.jpeg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+    background-size: cover; /* Ensure the background image covers the entire container */
+    background-position: center; /* Center the background image */
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input,
+  textarea {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #0bf9ae;
+    border-radius: 4px;
+  }
+  
+  input[type="radio"] {
+    margin-right: 5px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #e61414;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  h2 {
+    text-align: center;
+    color: #f11d1d; /* Set the text color to be visible against the background */
+  }
+  
+  /* Optional: Style for radio button labels */
+  .form-group label {
+    margin-right: 10px;
+  }
+  
+  /* Optional: Style for form container */
+  .feedback-form-container {
+    margin-top: 50px;
+  }
+  
+  /* Optional: Add more styles based on your design requirements */
+  

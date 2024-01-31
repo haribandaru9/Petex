@@ -1,0 +1,35 @@
+
+input:hover{
+  background-color: rgb(221, 230, 247);
+}
+td{
+  padding: 10px;
+  color: rgb(28, 28, 26);
+}
+.doctable tr{
+  padding: 10px;
+  
+}
+.DRimage{
+  border-radius: 50%;
+  height: 300px;
+  width: 300px;
+}
+.DRcard{
+  padding: 20px;
+  padding-top: 70px;
+}
+.DRcard p{
+  color: rgb(236, 138, 69);
+  font-weight: bold;
+  font-size: large;
+}
+
+
+ 
+.DRbtn{
+  border-radius: 12px;
+  background-color: rgb(205, 31, 31);
+  color: rgb(35, 224, 35);
+  padding: 10px;
+}

@@ -1,0 +1,31 @@
+.payment{
+    background-image: url("https://www.chetu.com/img/payments/payments-main/sliderbg/payments-banner-1.jpg");
+    background-repeat: no-repeat; background-size: cover; width: 60%; margin-left: 18%; margin-right: 10%; margin-top: 10%;
+    height: 60vh; border-radius: 2rem; 
+    
+}
+
+.pay-1 .pay-email{
+    margin-left: 20%; font-size: 1.5rem; font-weight: bold;
+}
+
+.pay-2 .pay-mobile{
+    margin-left: 20%; font-size: 1.5rem; font-weight: bold;
+}
+
+.pay-3{
+
+    display: flex; border: 2px solid; width: 43%; height: 10vh; margin-left: 20%; 
+}
+
+.pay-3-left{
+    margin-left: 10%; font-size: 1.5rem; margin-top: 5%;
+}
+
+.pay-3-right{
+    margin-left: 45%; font-size: 1.5rem;
+}
+
+.pay-4 button{
+    margin-left: 33%; width: 10%; 
+}
